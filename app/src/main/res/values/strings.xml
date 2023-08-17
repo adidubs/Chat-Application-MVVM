@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwnChat</string>
+
+    <string name="api_key">g4nggjwd53jz</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYWJoaW5hdmcifQ.5F3oy_BEa8Yp0D35dg3utTf5JKudOlAFBGzfyp6u-8U</string>
+<!--abhinavg-->
+</resources>
